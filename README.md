@@ -35,6 +35,7 @@ brokerPattern/
 │ ├── basic_example.py # 기본 사용 예제
 │ └── distributed_example.py # 분산 시스템 예제
 └── README.md # 프로젝트 설명 문서
+```
 
 ## 구현 방법
 
@@ -58,4 +59,7 @@ brokerPattern/
 -   직접 통신에 비해 효율성 저하
 -   브로커 장애 시 전체 시스템 영향 (단일 장애점)
 -   테스트와 디버깅의 복잡성
+
+```
+
 ```
